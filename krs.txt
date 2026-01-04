@@ -1,0 +1,9 @@
+2500018011|IF101|Algoritma dan Pemrograman|3
+2500018011|IF102|Struktur Data|3
+2400018070|IF105|Jaringan Komputer|2
+2400018070|IF106|Sistem Operasi|3
+2400018071|IF105|Jaringan Komputer|2
+2400018071|IF106|Sistem Operasi|3
+2300018060|IF109|Rekayasa Perangkat Lunak|3
+2300018061|IF109|Rekayasa Perangkat Lunak|3
+2400018071|IF104|Pemrograman Berorientasi Objek|3

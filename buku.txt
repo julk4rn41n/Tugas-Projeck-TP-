@@ -1,0 +1,15 @@
+BK001|Algoritma dan Pemrograman|15
+BK002|Struktur Data|12
+BK003|Basis Data|10
+BK004|Pemrograman Berorientasi Objek|8
+BK005|Jaringan Komputer|5
+BK006|Sistem Operasi|7
+BK007|Pemrograman Web|9
+BK008|Kecerdasan Buatan|6
+BK009|Rekayasa Perangkat Lunak|11
+BK010|Data Mining|4
+BK011|Machine Learning|3
+BK012|Android Programming|6
+BK013|Python for Data Science|8
+BK014|Database Management|7
+BK015|Computer Networking|5

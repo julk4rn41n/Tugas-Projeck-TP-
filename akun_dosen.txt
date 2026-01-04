@@ -1,0 +1,6 @@
+1234567801@tif.uad.ac.id|1234567801|Prof. Dr. Ahmad Santoso, M.Kom.|1234567801|Teknik Informatika|Siapa nama ibu kandung Anda?|Siti Aminah|dosen
+1234567806@tif.uad.ac.id|1234567806|Fajar Nugroho, M.T.|1234567806|Teknik Informatika|Apa makanan favorit Anda?|Nasi Goreng|dosen
+1234567807@tif.uad.ac.id|1234567807|Gita Maharani, M.Kom.|1234567807|Sistem Informasi|Siapa nama saudara kandung Anda?|Rani|dosen
+1234567808@tif.uad.ac.id|1234567808|Hanif Abdullah, M.Sc.|1234567808|Teknik Informatika|Apa hobi Anda?|Membaca|dosen
+1234567809@tif.uad.ac.id|1234567809|Irfan Maulana, M.T.|1234567809|Teknik Informatika|Apa merk laptop pertama Anda?|Toshiba|dosen
+1234567810@tif.uad.ac.id|1234567810|Dian Indah Yani, M.Kom.|1234567810|Sistem Informasi|Apa mananan favorit?|Nasi Padang Asrama|dosen

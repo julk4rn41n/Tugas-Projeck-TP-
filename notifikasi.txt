@@ -1,0 +1,5 @@
+NOTIF_2_584|2400018099|admin|fhbjcxnz|01-12-2025|10:30:00|UNREAD
+NOTIF_3_760|2400018070@webmail.uad.ac.id|admin|fhbjcxnz|01-12-2025|10:30:00|UNREAD
+NOTIF_4_925|2400018071@webmail.uad.ac.id|admin|fhbjcxnz|01-12-2025|10:30:00|UNREAD
+NOTIF_5_158|2400018061@webmail.uad.ac.id|admin|fhbjcxnz|01-12-2025|10:30:00|UNREAD
+NOTIF_6_683|2400018080@webmail.uad.ac.id|admin|fhbjcxnz|01-12-2025|10:30:00|UNREAD

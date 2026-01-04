@@ -1,0 +1,10 @@
+IF101|Algoritma dan Pemrograman|3|1|Informatika
+IF102|Struktur Data|3|1|Informatika
+IF103|Basis Data|3|2|Informatika
+IF104|Pemrograman Berorientasi Objek|3|2|Informatika
+IF105|Jaringan Komputer|2|3|Informatika
+IF106|Sistem Operasi|3|3|Informatika
+IF107|Pemrograman Web|3|4|Informatika
+IF108|Kecerdasan Buatan|3|4|Informatika
+IF109|Rekayasa Perangkat Lunak|3|5|Informatika
+IF110|Dasar Pemrograman|3|1|Informatika

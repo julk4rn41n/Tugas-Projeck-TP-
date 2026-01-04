@@ -1,0 +1,6 @@
+jul|123|Wahyu cahya|2400018079|Informtika|r|r|mahasiswa
+2400018099|2400018099|Jhonson|2400018099|Informatika|nana|nana|mahasiswa
+2400018070@webmail.uad.ac.id|2400018070|Sasuke Uchiha|2400018070|Informatika|Kagami Uchiha|Kagami Uchiha|mahasiswa
+2400018071@webmail.uad.ac.id|2400018071|Naruto Uzumaki|2400018071|Informatika|Apa nama ayah?|Minato Namikaze|mahasiswa
+2400018061@webmail.uad.ac.id|2400018061|Hagoromo Otsusuki|2400018061|Informatika|Kaguya Otsusuki|Kaguya Otsusuki|mahasiswa
+2400018080@webmail.uad.ac.id|140720052400018080|Julkarnain|2400018080|Belum diisi|Belum diisi|Belum diisi|mahasiswa
