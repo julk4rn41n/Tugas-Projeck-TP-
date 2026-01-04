@@ -1,3 +1,5 @@
+//Hanya demo huffman tree saja
+
 #ifndef HUFFMAN_TREE_DYNAMIC_H
 #define HUFFMAN_TREE_DYNAMIC_H
 
@@ -165,5 +167,6 @@ public:
         }
     }
 };
+
 
 #endif
