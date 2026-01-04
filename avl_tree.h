@@ -1,3 +1,4 @@
+//Hanya demo avl tree saja
 #ifndef AVL_TREE_DYNAMIC_H
 #define AVL_TREE_DYNAMIC_H
 
@@ -313,5 +314,6 @@ public:
         }
     }
 };
+
 
 #endif
