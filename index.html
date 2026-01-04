@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN v1.0</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="login-screen" class="overlay">
+        <div class="login-card">
+            <h2>SILAHKAN <span>LOGIN</span></h2>
+            <p>Silakan login untuk mengakses sistem</p>
+            <div class="input-group">
+                <input type="text" id="username" placeholder="Username" required>
+                <input type="password" id="password" placeholder="Password" required>
+                <button onclick="handleLogin()">Masuk ke Sistem</button>
+            </div>
+            <p id="login-msg" class="error-text"></p>
+        </div>
+    </div>
+
+    <div id="dashboard-screen" class="dashboard-container hidden">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h3>DASHBOARD</h3>
+            </div>
+            <nav class="sidebar-nav">
+                <div id="admin-menu" class="role-menu hidden">
+                    <label>ADMIN PANEL</label>
+                    <button onclick="showForm('form-mhs')">Tambah Mahasiswa</button>
+                    <button onclick="showForm('form-dosen')">Tambah Dosen</button>
+                    <button onclick="showForm('form-mk')">Mata Kuliah Baru</button>
+                </div>
+                <div id="dosen-menu" class="role-menu hidden">
+                    <label>DOSEN PANEL</label>
+                    <button onclick="showForm('form-nilai')">Input Nilai</button>
+                </div>
+                <div id="mhs-menu" class="role-menu hidden">
+                    <label>MAHASISWA</label>
+                    <button onclick="renderKRS()">Ambil KRS</button>
+                    <button onclick="renderNilai()">Transkrip & IPK</button>
+                </div>
+            </nav>
+            <div class="sidebar-footer">
+                <button class="btn-logout" onclick="logout()">Keluar</button>
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <header class="top-bar">
+                <h2 id="page-title">Beranda</h2>
+                <div class="user-profile">
+                    <span id="user-display">User</span>
+                </div>
+            </header>
+
+            <div id="dynamic-area" class="content-area">
+                </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
